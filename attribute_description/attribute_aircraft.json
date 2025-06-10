@@ -1,0 +1,75 @@
+{
+    "Airplane Type": [
+        "commercial",
+        "private",
+        "military",
+        "cargo",
+        "training"
+    ],
+    "Airplane Size": [
+        "small",
+        "medium",
+        "large",
+        "jumbo"
+    ],
+    "Airplane Color": [
+        "white",
+        "blue",
+        "red",
+        "gray",
+        "yellow",
+        "green",
+        "black",
+        "multi-color"
+    ],
+    "Background": [
+        "airport runway",
+        "in flight",
+        "hangar",
+        "urban landscape",
+        "rural landscape",
+        "mountainous area",
+        "over water",
+        "sunset sky",
+        "clear sky",
+        "cloudy sky"
+    ],
+    "Airplane Angle": [
+        "frontal view",
+        "side view",
+        "top view",
+        "bottom view",
+        "diagonal view",
+        "close-up view",
+        "distant view",
+        "landing",
+        "taking off",
+        "parked"
+    ],
+    "Lighting Condition": [
+        "bright daylight",
+        "overcast",
+        "dawn",
+        "dusk",
+        "night",
+        "sunset",
+        "spotlight"
+    ],
+    "Weather Condition": [
+        "clear",
+        "cloudy",
+        "rainy",
+        "stormy",
+        "snowy",
+        "foggy",
+        "windy"
+    ],
+    "Airplane Condition": [
+        "new",
+        "old",
+        "clean",
+        "dirty",
+        "damaged",
+        "repaired"
+    ]
+}

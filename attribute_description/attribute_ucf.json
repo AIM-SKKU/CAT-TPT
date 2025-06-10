@@ -1,0 +1,101 @@
+{
+    "Scene": [
+        "indoors",
+        "outdoors",
+        "in a gym",
+        "in a park",
+        "on a beach",
+        "in a forest",
+        "in an urban area",
+        "in a rural area",
+        "in a stadium",
+        "in a swimming pool",
+        "on a road"
+    ],
+    "Action": [
+        "running",
+        "jumping",
+        "swimming",
+        "dancing",
+        "cycling",
+        "playing a sport",
+        "lifting weights",
+        "yoga",
+        "skateboarding",
+        "hiking",
+        "playing a musical instrument"
+    ],
+    "Objects": [
+        "with a ball",
+        "with a bicycle",
+        "with weights",
+        "with a skateboard",
+        "with a musical instrument",
+        "with a dog",
+        "with a car",
+        "with food",
+        "with furniture",
+        "with electronics",
+        "with water"
+    ],
+    "Time of Day": [
+        "morning",
+        "afternoon",
+        "evening",
+        "night"
+    ],
+    "Weather": [
+        "sunny",
+        "cloudy",
+        "rainy",
+        "snowy",
+        "foggy",
+        "stormy",
+        "windy",
+        "overcast"
+    ],
+    "Clothing": [
+        "casual clothes",
+        "sportswear",
+        "swimwear",
+        "formal wear",
+        "costume",
+        "winter clothes",
+        "summer clothes",
+        "raincoat",
+        "uniform"
+    ],
+    "Emotion": [
+        "happy",
+        "sad",
+        "angry",
+        "surprised",
+        "excited",
+        "bored",
+        "scared",
+        "confident",
+        "relaxed"
+    ],
+    "Lighting Condition": [
+        "bright daylight",
+        "dusk",
+        "night with artificial light",
+        "shaded",
+        "backlit",
+        "low light"
+    ],
+    "Number of People": [
+        "single person",
+        "two people",
+        "group of people",
+        "crowd"
+    ],
+    "Perspective": [
+        "first-person view",
+        "third-person view",
+        "side view",
+        "top view",
+        "close-up",
+        "wide shot"
+    ]
+}

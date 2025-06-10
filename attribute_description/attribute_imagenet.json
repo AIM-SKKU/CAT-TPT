@@ -1,0 +1,41 @@
+{
+  "Style_prompt_multi": [
+    "cartoon style",
+    "sketch style",
+    "sculpture style",
+    "toy style",
+    "graffiti style",
+    "art style",
+    "deviantart style",
+    "origami style",
+    "embroidery style",
+    "misc style",
+    "painting style",
+    "sticker style",
+    "videogame style"
+  ],
+  "Color_prompt_multi": [
+    "light color",
+    "dark color",
+    "blue color",
+    "red color",
+    "green color",
+    "warm color",
+    "cool color"
+  ],
+ "Texture_prompt_multi": [
+    "smooth texture",
+    "rough texture",
+    "soft texture",
+    "glossy texture",
+    "flat texture"
+  ],
+  "Environment_prompt_multi": [
+    "in the sky",
+    "in the wilderness",
+    "in the sea",
+    "in the jungle",
+    "in the land",
+    "in the clear background"
+  ]
+}

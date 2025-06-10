@@ -1,0 +1,109 @@
+{
+    "Time of Day": [
+        "morning",
+        "afternoon",
+        "evening",
+        "night",
+        "dawn",
+        "dusk"
+    ],
+    "Weather": [
+        "sunny",
+        "cloudy",
+        "rainy",
+        "snowy",
+        "foggy",
+        "stormy",
+        "windy",
+        "clear"
+    ],
+    "Activities": [
+        "walking",
+        "running",
+        "cycling",
+        "swimming",
+        "picnicking",
+        "skiing",
+        "shopping",
+        "working",
+        "relaxing",
+        "playing sports"
+    ],
+    "Crowd": [
+        "no people",
+        "few people",
+        "some people",
+        "crowded",
+        "group of children",
+        "group of adults",
+        "group of seniors"
+    ],
+    "Geographical Environment": [
+        "mountainous",
+        "desert",
+        "forest",
+        "beach",
+        "urban",
+        "rural",
+        "suburban",
+        "waterfront",
+        "island",
+        "cave"
+    ],
+    "Building Type": [
+        "residential",
+        "commercial",
+        "industrial",
+        "historical",
+        "modern",
+        "skyscraper",
+        "cottage",
+        "hut",
+        "mansion",
+        "apartment"
+    ],
+    "Transportation": [
+        "no transportation",
+        "cars",
+        "bicycles",
+        "trains",
+        "buses",
+        "boats",
+        "planes",
+        "motorcycles",
+        "pedestrians"
+    ],
+    "Vegetation": [
+        "no vegetation",
+        "sparse vegetation",
+        "dense vegetation",
+        "trees",
+        "grass",
+        "flowers",
+        "bushes",
+        "crops",
+        "moss"
+    ],
+    "Water Bodies": [
+        "no water",
+        "lake",
+        "river",
+        "ocean",
+        "pond",
+        "swimming pool",
+        "waterfall",
+        "stream",
+        "fountain"
+    ],
+    "Terrain": [
+        "flat",
+        "hilly",
+        "mountainous",
+        "rocky",
+        "sandy",
+        "wetland",
+        "snowy",
+        "volcanic",
+        "urban pavement"
+    ]
+}

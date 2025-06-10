@@ -1,0 +1,73 @@
+{
+    "Land Cover Type": [
+        "residential",
+        "industrial",
+        "highway",
+        "river",
+        "pasture",
+        "permanent crop",
+        "annual crop",
+        "forest",
+        "herbaceous vegetation",
+        "sea/lake"
+    ],
+    "Season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+    ],
+    "Weather Condition": [
+        "clear",
+        "cloudy",
+        "rainy",
+        "snowy",
+        "foggy",
+        "stormy"
+    ],
+    "Time of Day": [
+        "morning",
+        "afternoon",
+        "evening",
+        "night",
+        "dawn",
+        "dusk"
+    ],
+    "Vegetation Density": [
+        "sparse",
+        "moderate",
+        "dense"
+    ],
+    "Water Body": [
+        "none",
+        "small pond",
+        "river",
+        "lake",
+        "sea"
+    ],
+    "Urbanization Level": [
+        "rural",
+        "suburban",
+        "urban"
+    ],
+    "Land Use": [
+        "agriculture",
+        "residential",
+        "industrial",
+        "transportation",
+        "recreational",
+        "natural reserve"
+    ],
+    "Topography": [
+        "flat",
+        "hilly",
+        "mountainous",
+        "valley",
+        "plateau"
+    ],
+    "Soil Moisture": [
+        "dry",
+        "moist",
+        "wet"
+    ]
+}

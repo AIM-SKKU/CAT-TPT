@@ -1,0 +1,85 @@
+{
+    "Color": [
+        "red",
+        "orange",
+        "yellow",
+        "green",
+        "blue",
+        "purple",
+        "pink",
+        "white",
+        "black",
+        "multicolor"
+    ],
+    "Petal Shape": [
+        "round petals",
+        "pointed petals",
+        "ruffled petals",
+        "overlapping petals",
+        "single-layered petals",
+        "multi-layered petals",
+        "spiky petals"
+    ],
+    "Flower Size": [
+        "small flower",
+        "medium flower",
+        "large flower"
+    ],
+    "Background": [
+        "plain background",
+        "garden background",
+        "forest background",
+        "meadow background",
+        "urban background",
+        "water background",
+        "mountain background",
+        "desert background",
+        "indoor background"
+    ],
+    "Environment": [
+        "in a garden",
+        "in a forest",
+        "in a meadow",
+        "in a pot",
+        "by the roadside",
+        "near water",
+        "in the wild"
+    ],
+    "Weather": [
+        "sunny",
+        "cloudy",
+        "rainy",
+        "snowy",
+        "foggy",
+        "stormy",
+        "windy",
+        "overcast"
+    ],
+    "Lighting Condition": [
+        "bright daylight",
+        "dusk",
+        "night with artificial light",
+        "shaded",
+        "backlit",
+        "low light"
+    ],
+    "Angle": [
+        "top view",
+        "side view",
+        "front view",
+        "macro view",
+        "three-quarter view"
+    ],
+    "Clustering": [
+        "single flower",
+        "small cluster",
+        "large cluster",
+        "field of flowers"
+    ],
+    "Growth Stage": [
+        "bud",
+        "blooming",
+        "full bloom",
+        "wilting"
+    ]
+}

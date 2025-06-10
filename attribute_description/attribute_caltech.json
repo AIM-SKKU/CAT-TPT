@@ -1,0 +1,101 @@
+{
+    "Color": [
+        "monochromatic",
+        "multicolor",
+        "red",
+        "green",
+        "blue",
+        "yellow",
+        "orange",
+        "purple",
+        "pink",
+        "brown",
+        "black",
+        "white",
+        "gray"
+    ],
+    "Background": [
+        "plain background",
+        "nature background",
+        "urban background",
+        "indoor background",
+        "patterned background",
+        "blurred background",
+        "complex background",
+        "gradient background",
+        "solid color background"
+    ],
+    "Pose": [
+        "frontal view",
+        "side view",
+        "top view",
+        "bottom view",
+        "diagonal view",
+        "close-up view",
+        "distant view",
+        "tilted view"
+    ],
+    "Lighting Condition": [
+        "bright daylight",
+        "dusk",
+        "night with artificial light",
+        "shaded",
+        "backlit",
+        "low light",
+        "spotlight"
+    ],
+    "Environment": [
+        "indoors",
+        "outdoors",
+        "in a park",
+        "in a garden",
+        "on a street",
+        "in a room",
+        "in a studio",
+        "in a field",
+        "at the beach",
+        "in a forest"
+    ],
+    "Object Condition": [
+        "new",
+        "old",
+        "damaged",
+        "clean",
+        "dirty",
+        "wet",
+        "dry"
+    ],
+    "Image Style": [
+        "photorealistic",
+        "cartoon",
+        "sketch",
+        "painting",
+        "vintage",
+        "modern",
+        "minimalist",
+        "abstract"
+    ],
+    "Size": [
+        "small object",
+        "medium object",
+        "large object"
+    ],
+    "Color Mode": [
+        "full color",
+        "black and white",
+        "sepia",
+        "high contrast",
+        "low contrast"
+    ],
+    "Material": [
+        "metal",
+        "wood",
+        "plastic",
+        "glass",
+        "fabric",
+        "paper",
+        "leather",
+        "stone",
+        "rubber"
+    ]
+}

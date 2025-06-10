@@ -1,0 +1,102 @@
+{
+    "Color": [
+        "white",
+        "black",
+        "brown",
+        "gray",
+        "golden",
+        "cream",
+        "red",
+        "spotted",
+        "striped",
+        "multicolor"
+    ],
+    "Fur Type": [
+        "short-haired",
+        "long-haired",
+        "curly-haired",
+        "smooth-haired",
+        "wire-haired",
+        "hairless"
+    ],
+    "Pattern": [
+        "solid",
+        "striped",
+        "spotted",
+        "bicolor",
+        "tricolor",
+        "patched",
+        "marbled",
+        "brindled"
+    ],
+    "Pose": [
+        "sitting",
+        "standing",
+        "lying down",
+        "running",
+        "jumping",
+        "playing",
+        "sleeping",
+        "begging",
+        "rolling over"
+    ],
+    "Expression": [
+        "happy",
+        "sad",
+        "curious",
+        "angry",
+        "relaxed",
+        "alert",
+        "playful",
+        "bored"
+    ],
+    "Background": [
+        "plain background",
+        "garden background",
+        "living room background",
+        "bedroom background",
+        "park background",
+        "beach background",
+        "forest background",
+        "urban background"
+    ],
+    "Environment": [
+        "indoors",
+        "outdoors",
+        "on grass",
+        "on a couch",
+        "on a bed",
+        "on the floor",
+        "in a garden",
+        "on the street",
+        "at the beach",
+        "in the forest"
+    ],
+    "Accessories": [
+        "with a collar",
+        "with a leash",
+        "with a bow",
+        "with a bandana",
+        "with a hat",
+        "with a toy",
+        "with a blanket",
+        "with a costume"
+    ],
+    "Lighting Condition": [
+        "bright daylight",
+        "dusk",
+        "night with artificial light",
+        "shaded",
+        "backlit",
+        "low light"
+    ],
+    "Angle": [
+        "front view",
+        "side view",
+        "rear view",
+        "top view",
+        "low angle",
+        "high angle",
+        "close-up"
+    ]
+}

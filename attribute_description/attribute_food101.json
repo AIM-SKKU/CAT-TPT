@@ -1,0 +1,74 @@
+{
+    "Cuisine_Flavor_prompt": [
+        "asian flavor",
+        "mediterranean flavor",
+        "american flavor",
+        "italian flavor",
+        "french flavor",
+        "middle eastern flavor",
+        "indian flavor",
+        "latin american flavor",
+        "southeast asian flavor",
+        "african flavor"
+    ],
+    "Food_Shape_prompt": [
+        "slice shape",
+        "ball shape",
+        "strip shape",
+        "round shape",
+        "square shape",
+        "tower shape",
+        "roll shape",
+        "triangle shape",
+        "pancake shape",
+        "cup shape"
+    ],
+    "Portion_Size_prompt": [
+        "small portion",
+        "medium portion",
+        "large portion",
+        "mini portion",
+        "family size",
+        "single serving",
+        "sharing size",
+        "snack size",
+        "feast size",
+        "small bowl"
+    ],
+    "Sauce_Ingredients_prompt": [
+        "with sauce",
+        "without sauce",
+        "spicy sauce",
+        "sweet sauce",
+        "sour sauce",
+        "cream sauce",
+        "tomato sauce",
+        "yellow mustard",
+        "cheese",
+        "herbs/spices"
+    ],
+    "Food_Texture_prompt": [
+        "crispy",
+        "soft",
+        "chewy",
+        "smooth",
+        "juicy",
+        "fluffy",
+        "fine",
+        "coarse",
+        "tender",
+        "crunchy/tender"
+    ],
+    "Processing_State_prompt": [
+        "fresh",
+        "processed",
+        "canned",
+        "frozen",
+        "dried",
+        "pickled",
+        "aged",
+        "baked",
+        "smoked",
+        "cooked"
+    ]
+}

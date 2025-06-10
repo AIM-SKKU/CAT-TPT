@@ -1,0 +1,100 @@
+{
+    "Color": [
+        "monochromatic",
+        "multicolor",
+        "black and white",
+        "red",
+        "green",
+        "blue",
+        "yellow",
+        "orange",
+        "purple",
+        "pink",
+        "brown",
+        "gray"
+    ],
+    "Pattern": [
+        "striped",
+        "dotted",
+        "checkered",
+        "plaid",
+        "herringbone",
+        "zigzag",
+        "paisley",
+        "geometric",
+        "floral",
+        "abstract",
+        "wavy",
+        "crosshatched",
+        "solid"
+    ],
+    "Complexity": [
+        "simple",
+        "intricate",
+        "dense",
+        "sparse",
+        "uniform",
+        "varied",
+        "repetitive",
+        "irregular"
+    ],
+    "Shape": [
+        "round",
+        "square",
+        "rectangular",
+        "triangular",
+        "hexagonal",
+        "organic",
+        "curved",
+        "angular"
+    ],
+    "Shininess": [
+        "matte",
+        "glossy",
+        "shiny",
+        "reflective",
+        "metallic",
+        "dull"
+    ],
+    "Scale": [
+        "large scale",
+        "medium scale",
+        "small scale",
+        "micro scale",
+        "macro scale"
+    ],
+    "Tactile": [
+        "smooth",
+        "rough",
+        "soft",
+        "hard",
+        "fuzzy",
+        "grainy",
+        "silky",
+        "bumpy",
+        "slick"
+    ],
+    "Symmetry": [
+        "symmetrical",
+        "asymmetrical",
+        "radial symmetry",
+        "bilateral symmetry"
+    ],
+    "Transparency": [
+        "opaque",
+        "translucent",
+        "transparent"
+    ],
+    "Material": [
+        "fabric",
+        "wood",
+        "stone",
+        "metal",
+        "glass",
+        "plastic",
+        "paper",
+        "leather",
+        "ceramic",
+        "liquid"
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "Environment": [
+        "in a city",
+        "in a rural area",
+        "on a highway",
+        "in a parking lot",
+        "in a garage",
+        "near the beach",
+        "in a forest",
+        "in the mountains",
+        "at sunset",
+        "at night",
+        "during daytime",
+        "in the rain",
+        "in the snow"
+    ],
+    "Weather": [
+        "sunny",
+        "cloudy",
+        "rainy",
+        "snowy",
+        "foggy",
+        "stormy",
+        "windy",
+        "overcast"
+    ],
+    "Lighting Condition": [
+        "bright daylight",
+        "dusk",
+        "night with streetlights",
+        "night with headlights",
+        "shaded",
+        "backlit",
+        "indoor lighting",
+        "low light"
+    ],
+    "Motion Effect": [
+        "in motion",
+        "stationary",
+        "blurred motion",
+        "parked",
+        "speeding",
+        "drifting",
+        "skidding"
+    ],
+    "Angle": [
+        "front view",
+        "side view",
+        "rear view",
+        "top view",
+        "low angle",
+        "high angle",
+        "three-quarter view"
+    ],
+    "Ground Type": [
+        "asphalt road",
+        "dirt road",
+        "gravel road",
+        "paved road",
+        "snow-covered road",
+        "wet road",
+        "sand",
+        "muddy road",
+        "grass"
+    ],
+    "People": [
+        "with driver",
+        "with passengers",
+        "with pedestrians nearby",
+        "no people around",
+        "crowded area",
+        "children near the car"
+    ],
+    "Background": [
+        "urban skyline",
+        "rural landscape",
+        "mountain range",
+        "beach",
+        "forest",
+        "desert",
+        "suburban neighborhood",
+        "industrial area",
+        "parking structure"
+    ],
+    "License Plate": [
+        "with license plate",
+        "without license plate",
+        "blurred license plate",
+        "foreign license plate",
+        "custom license plate"
+    ],
+    "Occlusion": [
+        "partially occluded by another car",
+        "partially occluded by a tree",
+        "partially occluded by a building",
+        "partially occluded by a person",
+        "partially occluded by road sign",
+        "no occlusion"
+    ],
+    "Cleanliness": [
+        "clean",
+        "dusty",
+        "muddy",
+        "wet",
+        "snow-covered",
+        "with bird droppings",
+        "with leaves",
+        "with scratches"
+    ]
+}
