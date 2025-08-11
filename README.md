@@ -7,19 +7,15 @@
     and&emsp; <a href='https://www.csehong.com/' target='_blank'>Sungeun Hong</a><sup>1</sup>
 </div>
 
- 
+<br>
 <div>
     <sup>1</sup>Sungkyunkwan University, <sup>2</sup>Yale University
 </div>
 
-
-<div>
-    <h4 align="center">
-        International Journal of Computer Vision (IJCV) 2025
-        [Paper] (https://link.springer.com/article/10.1007/s11263-025-02508-1)
-    </h4>
+<div align="center">
+  <h4>International Journal of Computer Vision (IJCV) 2025</h4>
+  <a href="https://link.springer.com/article/10.1007/s11263-025-02508-1"><strong>[Paper]</strong></a>
 </div>
-
 
 
 <div style="text-align:center">
@@ -102,5 +98,6 @@ If you find this work useful, please consider citing it.
 
 # Acknowledgements
 We thank the authors of [CoOp/CoCoOp](https://github.com/KaiyangZhou/CoOp), [TPT](https://github.com/azshue/TPT) and [DiffTPT](https://github.com/chunmeifeng/DiffTPT) for their open-source implementation and instructions on data preparation.
+
 
 
