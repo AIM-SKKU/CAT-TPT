@@ -63,7 +63,7 @@ We evaluate our method under three scenarios:
 - ImageNet-C  
 
 
-Please refer to [CoOp/CoCoOp](https://github.com/KaiyangZhou/CoOp) and (https://github.com/azshue/TPT for more details on data.
+Please refer to [CoOp/CoCoOp](https://github.com/KaiyangZhou/CoOp) and [TPT](https://github.com/azshue/TPT) for more details on data.
 
 <div align="left">
 
@@ -94,3 +94,4 @@ If you find this work useful, please consider citing it.
 
 # Acknowledgements
 We thank the authors of [CoOp/CoCoOp](https://github.com/KaiyangZhou/CoOp), [TPT](https://github.com/azshue/TPT) and [DiffTPT](https://github.com/chunmeifeng/DiffTPT) for their open-source implementation and instructions on data preparation.
+
