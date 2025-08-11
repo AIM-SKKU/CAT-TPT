@@ -16,6 +16,7 @@
 <div>
     <h4 align="center">
         International Journal of Computer Vision (IJCV) 2025
+        [Paper] (https://link.springer.com/article/10.1007/s11263-025-02508-1)
     </h4>
 </div>
 
@@ -89,9 +90,17 @@ bash scripts/test_cattpt_coop.sh
 If you find this work useful, please consider citing it.
 
 ```
-
+@article{zhang2025cat,
+  title={CAT-TPT: Class-Agnostic Text-based Test-time Prompt Tuning for Vision-Language Models},
+  author={Zhang, Youjia and Liu, Huiling and Kim, Youngeun and Hong, Sungeun},
+  journal={International Journal of Computer Vision},
+  pages={1--23},
+  year={2025},
+  publisher={Springer}
+}
 ```
 
 # Acknowledgements
 We thank the authors of [CoOp/CoCoOp](https://github.com/KaiyangZhou/CoOp), [TPT](https://github.com/azshue/TPT) and [DiffTPT](https://github.com/chunmeifeng/DiffTPT) for their open-source implementation and instructions on data preparation.
+
 
